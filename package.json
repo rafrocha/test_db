@@ -1,0 +1,25 @@
+{
+  "name": "test_db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lookup_people.js",
+  "dependencies": {
+    "knex": "^0.15.2",
+    "moment": "^2.22.2",
+    "pg": "^7.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafrocha/test_db.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafrocha/test_db/issues"
+  },
+  "homepage": "https://github.com/rafrocha/test_db#readme"
+}
